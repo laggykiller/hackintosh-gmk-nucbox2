@@ -2,8 +2,6 @@
 Should work in Catalina, Big Sur and Monterey, but with the following problems:
 - If use hardware acceleration, only one of the two HDMI connectors works (Only the lateral one works)
 - Plugging in/out HDMI, as well as switching off display in MacOS cause the system to freeze up (Hence I recommend disable auto switch off display in macOS settings until fix is found)
-- One of the USB port (front, middle) cannot use USB2.0
-- USB type C port does not work
 - Bluetooth does not work in Monterey (https://dortania.github.io/OpenCore-Install-Guide/extras/monterey.html#bluetooth)
 
 I have not thoroughly test it for problems, so please create issue if you find any problem.
