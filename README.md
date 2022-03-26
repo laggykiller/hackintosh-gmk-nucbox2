@@ -7,6 +7,8 @@ I am an amateur in hackintoshing, so I may not be able to help!
 
 Feel free to submit pull requests to help improve this project!
 
+The EFI should also work in BeeLink SEi8
+
 # How to use?
 For more details, read dortania guide: https://dortania.github.io/OpenCore-Install-Guide/
 
