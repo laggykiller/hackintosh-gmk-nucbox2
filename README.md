@@ -40,7 +40,7 @@ CPU: Intel Core i5 8279U
 
 GPU: Intel Iris Plus 655
 
-RAM: 2 x 8GB 266mHz DDR4
+RAM: 2 x 8GB 2666mHz DDR4
 
 Storage: AGI High Performance SSD AI198 M.2 PCIe 1TB
 
