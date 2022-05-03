@@ -1,5 +1,5 @@
 # Current status
-The 3.5mm audio jack does not work, as the device uses ES8336 audio chipset and likely not supported
+The 3.5mm audio jack does not work, as the device uses ES8336 audio chipset and likely not supported. However, HDMI and USB audio both works.
 
 I do not have the tools to test USB C port display out
 
