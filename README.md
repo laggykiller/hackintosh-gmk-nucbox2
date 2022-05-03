@@ -1,5 +1,7 @@
 # Current status
-Everything should work now, except USB C port, which I do not have the tools to test it and not sure if it works.
+The 3.5mm audio jack does not work, as the device uses ES8336 audio chipset and likely not supported
+
+I do not have the tools to test USB C port display out
 
 I have not thoroughly test it for problems, so please create issue if you find any problem.
 
